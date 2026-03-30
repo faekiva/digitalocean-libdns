@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/libdns/digitalocean"
+	"github.com/faekiva/digitalocean-libdns"
 	"github.com/libdns/libdns"
 )
 

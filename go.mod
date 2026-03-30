@@ -1,4 +1,4 @@
-module github.com/libdns/digitalocean
+module github.com/faekiva/digitalocean-libdns
 
 go 1.25.0
 
